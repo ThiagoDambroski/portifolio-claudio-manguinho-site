@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.1fe01454.css",
-    "main.js": "./static/js/main.28f935e7.js",
+    "main.css": "./static/css/main.9684b1e5.css",
+    "main.js": "./static/js/main.07a0730b.js",
+    "static/media/placeholder.png": "./static/media/placeholder.453825b83d1a7eb0a1c5.png",
     "static/media/projeto1.png": "./static/media/projeto1.c26cd5c778f5bf61f576.png",
     "static/media/projeto2.png": "./static/media/projeto2.94e7b2438b7f6b61c881.png",
     "static/media/LibreBaskerville-Bold.ttf": "./static/media/LibreBaskerville-Bold.ecfbab5016554edd8cd6.ttf",
@@ -9,12 +10,13 @@
     "static/media/fundo.jpg": "./static/media/fundo.9412c0a035b47c71b303.jpg",
     "static/media/Lato-Bold.ttf": "./static/media/Lato-Bold.76eff6487a1e1011628f.ttf",
     "static/media/AbrilFatface-Regular.ttf": "./static/media/AbrilFatface-Regular.6aca51d24c48c450ea06.ttf",
+    "static/media/Proxima Nova Alt Light.otf": "./static/media/Proxima Nova Alt Light.ad48cb5acdd38dc03790.otf",
     "index.html": "./index.html",
-    "main.1fe01454.css.map": "./static/css/main.1fe01454.css.map",
-    "main.28f935e7.js.map": "./static/js/main.28f935e7.js.map"
+    "main.9684b1e5.css.map": "./static/css/main.9684b1e5.css.map",
+    "main.07a0730b.js.map": "./static/js/main.07a0730b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fe01454.css",
-    "static/js/main.28f935e7.js"
+    "static/css/main.9684b1e5.css",
+    "static/js/main.07a0730b.js"
   ]
 }

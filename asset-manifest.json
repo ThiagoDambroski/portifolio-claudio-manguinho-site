@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b928a6d5.css",
-    "main.js": "./static/js/main.6f2a393c.js",
+    "main.css": "./static/css/main.164277a7.css",
+    "main.js": "./static/js/main.687f64ad.js",
     "static/media/projeto30.png": "./static/media/projeto30.f37bfc9cade719d93416.png",
     "static/media/projeto32.png": "./static/media/projeto32.f7a68d9cd5f98fb05740.png",
     "static/media/projeto26.png": "./static/media/projeto26.2bef441d05cfe19ce76f.png",
@@ -36,6 +36,7 @@
     "static/media/projeto3.png": "./static/media/projeto3.80bf3ee74c21f1eadb35.png",
     "static/media/projeto12.png": "./static/media/projeto12.0b264439514893cac05b.png",
     "static/media/projeto20.png": "./static/media/projeto20.97105fce948018b87cbc.png",
+    "static/media/Montserrat-ExtraLight.ttf": "./static/media/Montserrat-ExtraLight.ef3c777f702c89a0f300.ttf",
     "static/media/SourceSansPro-Light.ttf": "./static/media/SourceSansPro-Light.d8522cf769f9218b6b54.ttf",
     "static/media/LibreBaskerville-Bold.ttf": "./static/media/LibreBaskerville-Bold.ecfbab5016554edd8cd6.ttf",
     "static/media/Raleway-Light.ttf": "./static/media/Raleway-Light.f86090a73e4996cf067e.ttf",
@@ -49,11 +50,11 @@
     "static/media/mail.png": "./static/media/mail.8afbd69c55000424b599.png",
     "static/media/phone-call.png": "./static/media/phone-call.d35848942c955a6232b3.png",
     "index.html": "./index.html",
-    "main.b928a6d5.css.map": "./static/css/main.b928a6d5.css.map",
-    "main.6f2a393c.js.map": "./static/js/main.6f2a393c.js.map"
+    "main.164277a7.css.map": "./static/css/main.164277a7.css.map",
+    "main.687f64ad.js.map": "./static/js/main.687f64ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.b928a6d5.css",
-    "static/js/main.6f2a393c.js"
+    "static/css/main.164277a7.css",
+    "static/js/main.687f64ad.js"
   ]
 }
